@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Ashkan Ebadi"
   avatar           : "Ashkan_Ebadi.jpg"
-  bio              : "Senior Research Officer @NRC\nAffl. Asst. Prof.@Concordia\nSenior IEEE Member"
+  bio              : "Senior Research Officer @NRC\nAffl. Asst. Prof. @Concordia Univ.\nSenior IEEE Member"
   location         : "Montreal, Quebec"
   employer         : "National Research Council Canada"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=QY04IUkAAAAJ&hl=en"
-  email            : "firstname.lastname@nrc-cnrc.gc.ca"
+  email            : "ashkan.ebadi@nrc-cnrc.gc.ca"
   researchgate     : "https://www.researchgate.net/profile/Ashkan-Ebadi-3" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
