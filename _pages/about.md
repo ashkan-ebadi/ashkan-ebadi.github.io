@@ -37,7 +37,7 @@ Selected Publications
 * __Ebadi, A.__, Dalboni da Rocha, J. L., Nagaraju, D. B., Tovar-Moll, F., Bramati, I., Coutinho, G., ... & Rashidi, P. (2017). [Ensemble classification of Alzheimer's disease and mild cognitive impairment based on complex graph measures from diffusion tensor images](https://www.frontiersin.org/articles/10.3389/fnins.2017.00056/full). _Frontiers in neuroscience_, 11, 56.
 * __Ebadi, A.__, Tighe, P. J., Zhang, L., & Rashidi, P. (2017). [DisTeam: A decision support tool for surgical team selection](https://www.sciencedirect.com/science/article/pii/S093336571630272X). _Artificial intelligence in medicine_, 76, 16-26.
 
-For a complete list of publications, please see the [Publications](/publications) section.
+For a complete list of publications, please see the [Publications](/publications/) section.
 
 Recent News
 ------
