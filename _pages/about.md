@@ -41,24 +41,11 @@ For the complete list of publications, please see the 'Publications' section.
 
 Recent News
 ------
-#### March 2021
-* Delivered a guest lecture on _AI in Healthcare_ at École de technologie supérieure (ÉTS) - Invited by [Prof. Abdolouahed Gherbi](https://www.etsmtl.ca/en/research/professors/agherbi)
-
-#### February 2021
-* Invited to serve in the programm committe of the 2nd International Conference on Data Mining and Software Engineering (DMSE 2021)
-
-#### January 2021
-* Served in the program committee of the 2nd International Conference on Big Data (CBDA 2021)
-
-#### December 2020
-* Received the _Value for Canada_ award from NRC-DT
-* Received the _Technology to Market_ award from NRC-DT
-
-#### November 2020
-* Invited to serve in the programm committee of the [34th Canadian Conference on Artificial Intelligence (CanAI-2021)](https://www.caiac.ca/en/conferences/canadianai-2021/home) - to be held virtually on May 25-28, 2021.
-
-#### 2019
-* Served in the programm committee of the 33th Canadian Conference on Artificial Intelligence (CanAI-2020)
-
-#### 2018
-* Best paper award in clinical decision support category by the International Medical Informatics Association (IMIA)
+* __March 2021__ - Delivered a guest lecture on _AI in Healthcare_ at École de technologie supérieure (ÉTS) - Invited by [Prof. Abdolouahed Gherbi](https://www.etsmtl.ca/en/research/professors/agherbi).
+* __February 2021__ - Invited to serve in the programm committe of the 2nd International Conference on Data Mining and Software Engineering (DMSE 2021).
+* __January 2021__ - Served in the program committee of the 2nd International Conference on Big Data (CBDA 2021).
+* __December 2020__ - Received the _Value for Canada_ award from NRC-DT.
+* __December 2020__ - Received the _Technology to Market_ award from NRC-DT.
+* __November 2020__ - Invited to serve in the programm committee of the [34th Canadian Conference on Artificial Intelligence (CanAI-2021)](https://www.caiac.ca/en/conferences/canadianai-2021/home) - to be held virtually on May 25-28, 2021.
+* __2019__ - Served in the programm committee of the 33th Canadian Conference on Artificial Intelligence (CanAI-2020).
+* __2018__ - Best paper award in clinical decision support category by the International Medical Informatics Association (IMIA).
