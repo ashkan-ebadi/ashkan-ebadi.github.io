@@ -62,7 +62,7 @@ redirect_from:
 > __Publication year:__ 2017  
 
 > [__Ensemble classification of Alzheimer's disease and mild cognitive impairment based on complex graph measures from diffusion tensor images__](https://www.frontiersin.org/articles/10.3389/fnins.2017.00056/full)  
-> <img src="/images/Journal.png" width="85" height="35">  
+> <img src="/images/Journal.png" width="85" height="35"> <div data-badge-type="donut" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 > Ebadi, A., Dalboni da Rocha, J. L., Nagaraju, D. B., Tovar-Moll, F., Bramati, I., Coutinho, G., ... & Rashidi, P.  
 > _Frontiers in neuroscience_, 11, 56  
 > __Publication year:__ 2017  
