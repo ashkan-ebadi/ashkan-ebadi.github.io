@@ -14,7 +14,7 @@ redirect_from:
 > __Publication year:__ 2021  
 
 > [__Application of machine learning techniques to assess the trends and alignment of the funded research output__](https://www.sciencedirect.com/science/article/pii/S1751157718301901)  
-> <img src="/images/Journal.png" width="85" height="35">  
+> <img src="/images/Journal.png" width="85" height="35"> <div data-badge-type="donut" data-doi="https://doi.org/10.1016/j.joi.2020.101018" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 > Ebadi, A., Tremblay, S., Goutte, C., & Schiffauerova, A.  
 > _Journal of Informetrics_, 14(2), 101018  
 > __Publication year:__ 2020  
