@@ -17,11 +17,10 @@ redirect_from:
 > __Publication year:__ 2021  
 
 > [__Application of machine learning techniques to assess the trends and alignment of the funded research output__](https://www.sciencedirect.com/science/article/pii/S1751157718301901)  
-> <img src="/images/Journal.png" width="85" height="35">  
-> <div data-badge-type="1" data-doi="https://doi.org/10.1016/j.joi.2020.101018" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>  
-> Ebadi, A., Tremblay, S., Goutte, C., & Schiffauerova, A.  
+> <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., Tremblay, S., Goutte, C., & Schiffauerova, A.  
 > _Journal of Informetrics_, 14(2), 101018  
-> __Publication year:__ 2020  
+> __Publication year:__ 2020
+> <div data-badge-type="1" data-doi="https://doi.org/10.1016/j.joi.2020.101018" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>  
 
 > [__COVID-19 Detection from Chest X-Ray Images Using Deep Convolutional Neural Networks with Weights Imprinting Approach__](https://www.ci-journal.net/index.php/vsl/article/download/3546/4592)  
 > <img src="/images/Journal.png" width="85" height="35">  
@@ -67,11 +66,10 @@ redirect_from:
 
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 > [__Ensemble classification of Alzheimer's disease and mild cognitive impairment based on complex graph measures from diffusion tensor images__](https://www.frontiersin.org/articles/10.3389/fnins.2017.00056/full)  
-> <img src="/images/Journal.png" width="85" height="35">  
-> <div data-badge-popover="right" data-badge-type="1" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-hide-no-mentions="true" class="altmetric-embed"></div>  
-> Ebadi, A., Dalboni da Rocha, J. L., Nagaraju, D. B., Tovar-Moll, F., Bramati, I., Coutinho, G., ... & Rashidi, P.  
+> <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., Dalboni da Rocha, J. L., Nagaraju, D. B., Tovar-Moll, F., Bramati, I., Coutinho, G., ... & Rashidi, P.  
 > _Frontiers in neuroscience_, 11, 56  
 > __Publication year:__ 2017  
+> <div data-badge-popover="right" data-badge-type="1" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>  
 
 > [__DisTeam: A decision support tool for surgical team selection__](https://www.sciencedirect.com/science/article/pii/S093336571630272X)  
 > <img src="/images/Journal.png" width="85" height="35">  
