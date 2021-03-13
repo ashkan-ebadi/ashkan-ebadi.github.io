@@ -3,14 +3,12 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+![Journal paper](Journal.png) Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing
+Ebadi, A., Xi, P., Tremblay, S., Spencer, B., Pall, R., & Wong, A.
+Scientometrics, 126(1), 725-739
+__Publication year:__ 2021
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
