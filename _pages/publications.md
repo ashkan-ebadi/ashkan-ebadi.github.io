@@ -58,9 +58,8 @@ redirect_from:
 
 > [__Ensemble classification of Alzheimer's disease and mild cognitive impairment based on complex graph measures from diffusion tensor images__](https://www.frontiersin.org/articles/10.3389/fnins.2017.00056/full)  
 > <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., Dalboni da Rocha, J. L., Nagaraju, D. B., Tovar-Moll, F., Bramati, I., Coutinho, G., ... & Rashidi, P.  
-> <div data-badge-popover="right" data-badge-type="1" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
-> _Frontiers in neuroscience_, 11, 56  
-> __Publication year:__ 2017   
+> _Frontiers in neuroscience_, 11, 56. (__2017__)
+> <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 
 > [__DisTeam: A decision support tool for surgical team selection__](https://www.sciencedirect.com/science/article/pii/S093336571630272X)  
 > <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., Tighe, P. J., Zhang, L., & Rashidi, P.  
