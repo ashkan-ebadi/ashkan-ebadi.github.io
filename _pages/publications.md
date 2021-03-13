@@ -30,4 +30,25 @@ redirect_from:
 > Ebadi, A., Gauthier, Y., Tremblay, S., & Paul, P.  
 > In 2019 _18th IEEE International Conference On Machine Learning And Applications_ (ICMLA) (pp. 1186-1191)  
 > __Publication year:__ 2019   
-> 
+
+> [__A quest for the structure of intra-and postoperative surgical team networks: does the small-world property evolve over time?__](https://link.springer.com/content/pdf/10.1007/s13278-019-0550-5.pdf)  
+> <img src="/images/Journal.png" width="103" height="35">  
+> Ebadi, A., Tighe, P. J., Zhang, L., & Rashidi, P.  
+> _Social Network Analysis and Mining_, 9(1), 7  
+> __Publication year:__ 2019   
+
+> [__MySurgeryRisk: development and validation of a machine-learning risk algorithm for major complications and death after surgery__](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110979/)  
+> <img src="/images/Journal.png" width="103" height="35">  
+> Bihorac, A., Ozrazgat-Baslanti, T., Ebadi, A., Motaei, A., Madkour, M., Pardalos, P. M., ... & Momcilovic, P.  
+> _Annals of surgery_, 269(4), 652  
+> __Publication year:__ 2019   
+
+> [__Does the Position of Surgical Service Providers in Intra-Operative Networks Matter? Analyzing the Impact of Influencing Factors on Patients' Outcome__](https://arxiv.org/abs/1812.07129)  
+> <img src="/images/Preprint.png" width="68" height="35">  
+> Ebadi, A., Tighe, P. J., Zhang, L., & Rashidi, P.  
+> _arXiv preprint_ arXiv:1812.07129  
+> __Publication year:__ 2018   
+ 
+  
+
+
