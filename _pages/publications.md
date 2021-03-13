@@ -7,6 +7,9 @@ redirect_from:
   - /publications
 ---
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+
 > [__Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing__](https://link.springer.com/article/10.1007/s11192-020-03744-7)  
 > <img src="/images/Journal.png" width="85" height="35">  
 > Ebadi, A., Xi, P., Tremblay, S., Spencer, B., Pall, R., & Wong, A.  
@@ -74,8 +77,6 @@ redirect_from:
 > _Artificial intelligence in medicine_, 76, 16-26  
 > __Publication year:__ 2017  
 
-
-<div class="tip" markdown="1">Have **fun!**</div>
 
 <div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 
