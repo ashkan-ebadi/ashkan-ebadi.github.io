@@ -12,10 +12,10 @@ redirect_from:
 You can find me at my office located at the below address, after the coronavirus pandemic is over. 
 
 
-> National Research Council Canada (NRC)\n
-> MTL-Decelles Building\n
-> 2107 Chemin de Polytechnique, Office 430\n
-> Montréal, QC H3T 1J4
+> National Research Council Canada (NRC)  
+> MTL-Decelles Building  
+> 2107 Chemin de Polytechnique, Office 430  
+> Montréal, QC H3T 1J4  
 
 
 In any case, you can reach out to me via [email](mailto:ashkan.ebadi@nrc-cnrc.gc.ca) to set an appointment, discuss a research project, etc.
