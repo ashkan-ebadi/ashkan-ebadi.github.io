@@ -85,4 +85,20 @@ redirect_from:
 > _Journal of Informetrics_, 9(4), 809-825. (__2015__)
 > <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.joi.2015.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 
+> [__A network perspective of academiaindustry nanotechnology collaboration: A comparison of Canada and the United States__](https://www.tandfonline.com/doi/abs/10.1080/09737766.2015.1069966)  
+> <img src="/images/Journal.png" width="85" height="35"> Moazami, A., Ebadi, A., & Schiffauerova, A.  
+> _Collnet Journal of Scientometrics and Information Management_, 9(2), 263-293. (__2015__)  
+
+> [__On the relation between the small world structure and scientific activities__](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0121129)  
+> <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., & Schiffauerova, A.  
+> _PloS one_, 9(4), 10(3), e0121129. (__2015__)
+> <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1371/journal.pone.0121129" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+
+> [__Analyzing Scientific Activities of the Top Ten Canadian Universities__](https://www.tandfonline.com/doi/abs/10.1080/09737766.2015.1027095)  
+> <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., & Schiffauerova, A.  
+> _Collnet Journal of Scientometrics and Information Management_, 9(1), 93-106. (__2015__)
+
+> [__How the export volume is affected by determinant factors in a developing country__](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1026.9628&rep=rep1&type=pdf)  
+> <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., & Ebadi, A.  
+> _Research in World Economy_, 6(1), 143-150. (__2015__)
 
