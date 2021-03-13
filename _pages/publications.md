@@ -75,3 +75,8 @@ redirect_from:
 > __Publication year:__ 2017  
 
 
+<div class="tip" markdown="1">Have **fun!**</div>
+
+<div data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-hide-no-mentions="true" class="altmetric-embed"></div>  
+
+
