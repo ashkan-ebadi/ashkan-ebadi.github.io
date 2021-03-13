@@ -26,7 +26,7 @@ redirect_from:
 > __Publication year:__ 2020  
  
 > [__How can automated machine learning help business data science teams?__](https://ieeexplore.ieee.org/abstract/document/8999171/)  
-> <img src="/images/Conference.png" width="85" height="35">  
+> <img src="/images/Conference.png" width="103" height="35">  
 > Ebadi, A., Gauthier, Y., Tremblay, S., & Paul, P.  
 > In 2019 _18th IEEE International Conference On Machine Learning And Applications_ (ICMLA) (pp. 1186-1191)  
 > __Publication year:__ 2019   
