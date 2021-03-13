@@ -80,3 +80,9 @@ redirect_from:
 > _Scientometrics_, 106(3), 1093-1116. (__2016__)
 > <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s11192-015-1825-x" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 
+> [__How to become an important player in scientific collaboration networks?__](https://www.sciencedirect.com/science/article/pii/S1751157715000565)  
+> <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., & Schiffauerova, A.  
+> _Journal of Informetrics_, 9(4), 809-825. (__2015__)
+> <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.joi.2015.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+
+
