@@ -44,11 +44,33 @@ redirect_from:
 > __Publication year:__ 2019   
 
 > [__Does the Position of Surgical Service Providers in Intra-Operative Networks Matter? Analyzing the Impact of Influencing Factors on Patients' Outcome__](https://arxiv.org/abs/1812.07129)  
-> <img src="/images/Preprint.png" width="68" height="30">  
+> <img src="/images/Preprint.png" width="60" height="30">  
 > Ebadi, A., Tighe, P. J., Zhang, L., & Rashidi, P.  
 > _arXiv preprint_ arXiv:1812.07129  
 > __Publication year:__ 2018   
  
+> [__Delirium prediction using machine learning models on predictive electronic health records data__](https://ieeexplore.ieee.org/abstract/document/8251352/)  
+> <img src="/images/Conference.png" width="103" height="35">  
+> Davoudi, A., Ozrazgat-Baslanti, T., Ebadi, A., Bursian, A. C., Bihorac, A., & Rashidi, P.  
+> In _2017 IEEE 17th International Conference on Bioinformatics and Bioengineering_ (BIBE) (pp. 568-573)  
+> __Publication year:__ 2017  
   
+> [__Unsupervised Machine Learning Analysis of Urinary Transcriptome Reveals Distinct Genotypic Clustering in Surgical Sepsis__](https://www.journalacs.org/article/S1072-7515(17)30732-9/abstract)  
+> <img src="/images/Journal.png" width="85" height="35">  
+> Lysak, N., Ebadi, A., Bandyopadhyay, S., Ozrazgat-Baslanti, T., Sautina, L., Lopez, M. C., ... & Bihorac, A.  
+> _Journal of the American College of Surgeons_, 225(4), S66-S67  
+> __Publication year:__ 2017  
+
+> [__Ensemble classification of Alzheimer's disease and mild cognitive impairment based on complex graph measures from diffusion tensor images__](https://www.frontiersin.org/articles/10.3389/fnins.2017.00056/full)  
+> <img src="/images/Journal.png" width="85" height="35">  
+> Ebadi, A., Dalboni da Rocha, J. L., Nagaraju, D. B., Tovar-Moll, F., Bramati, I., Coutinho, G., ... & Rashidi, P.  
+> _Frontiers in neuroscience_, 11, 56  
+> __Publication year:__ 2017  
+
+> [__DisTeam: A decision support tool for surgical team selection__](https://www.sciencedirect.com/science/article/pii/S093336571630272X)  
+> <img src="/images/Journal.png" width="85" height="35">  
+> Ebadi, A., Tighe, P. J., Zhang, L., & Rashidi, P.  
+> _Artificial intelligence in medicine_, 76, 16-26  
+> __Publication year:__ 2017  
 
 
