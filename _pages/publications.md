@@ -61,7 +61,7 @@ redirect_from:
 > _Journal of the American College of Surgeons_, 225(4), S66-S67  
 > __Publication year:__ 2017  
 
-<div data-badge-type="donut" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-type="donut" data-doi="https://doi.org/10.3389/fnins.2017.00056" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 > [__Ensemble classification of Alzheimer's disease and mild cognitive impairment based on complex graph measures from diffusion tensor images__](https://www.frontiersin.org/articles/10.3389/fnins.2017.00056/full)  
 > <img src="/images/Journal.png" width="85" height="35">  
 > Ebadi, A., Dalboni da Rocha, J. L., Nagaraju, D. B., Tovar-Moll, F., Bramati, I., Coutinho, G., ... & Rashidi, P.  
