@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "Professional"
+permalink: /professional/
 author_profile: true
+redirect_from:
+  - /professional
 ---
 
 {% include base_path %}
+
 
 
 ### Conference Program Committee
