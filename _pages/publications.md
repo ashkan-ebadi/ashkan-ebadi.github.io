@@ -112,6 +112,6 @@ redirect_from:
 > <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s11192-013-1069-6" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
 
 
-For a complete list of publication, you may either check <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> or see the [CV]('/CV/') section.
+For a complete list of publication, you may either check my [Google Scholar profile](https://scholar.google.ca/citations?user=QY04IUkAAAAJ&hl=en) or see the [CV]('/CV/') section.
 
  
