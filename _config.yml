@@ -190,6 +190,9 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
