@@ -9,7 +9,6 @@ redirect_from:
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-
 > [__Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing__](https://link.springer.com/article/10.1007/s11192-020-03744-7)  
 > <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., Xi, P., Tremblay, S., Spencer, B., Pall, R., & Wong, A.  
 > _Scientometrics_, 126(1), 725-739. (__2021__)
@@ -102,3 +101,17 @@ redirect_from:
 > <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., & Ebadi, A.  
 > _Research in World Economy_, 6(1), 143-150. (__2015__)
 
+> [__Impact of funding on scientific output and collaboration: A survey of literature__](https://www.worldscientific.com/doi/abs/10.1142/S0219649213500378)  
+> <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., & Schiffauerova, A.  
+> _Journal of Information & Knowledge Management_, 12(04), 1350037. (__2013__)
+> <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1142/S0219649213500378" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+ 
+ > [__Effect of collaboration network structure on knowledge creation and technological performance: the case of biotechnology in Canada__](https://link.springer.com/content/pdf/10.1007/s11192-013-1069-6.pdf)  
+> <img src="/images/Journal.png" width="85" height="35"> Eslami, H., Ebadi, A., & Schiffauerova, A.  
+> _Scientometrics_, 97(1), 99-119. (__2013__)
+> <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s11192-013-1069-6" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+
+
+For a complete list of publication, you may either check <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> or see the [CV]('/CV/') section.
+
+ 
