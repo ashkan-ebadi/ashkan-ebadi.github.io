@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-You can find me at my office located at the below address,
-
+Dr. Ebadi’s research concerns applied data science, with a special focus on medical informatics, and covers: 1) development of scalable and intelligent decision support systems, 2) hybrid recommender systems, and 3) hyper graphs analytics and evolution. He has successfully applied such techniques in large-scale real world health applications based on machine learning and deep learning methods. He has also a well-established track of collaboration with other researchers at both national and international levels, and produced several peer-reviewed publications from these collaborative projects. 
 
 # Under construction
