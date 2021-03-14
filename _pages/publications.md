@@ -83,7 +83,7 @@ redirect_from:
 > [__How to become an important player in scientific collaboration networks?__](https://www.sciencedirect.com/science/article/pii/S1751157715000565)  
 > <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., & Schiffauerova, A.  
 > _Journal of Informetrics_, 9(4), 809-825. (__2015__)
-> <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.joi.2015.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+> <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.joi.2015.08.002" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div><span class="__dimensions_badge_embed__" data-doi="10.1016/j.joi.2015.08.002" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 > [__A network perspective of academiaindustry nanotechnology collaboration: A comparison of Canada and the United States__](https://www.tandfonline.com/doi/abs/10.1080/09737766.2015.1069966)  
 > <img src="/images/Journal.png" width="85" height="35"> Moazami, A., Ebadi, A., & Schiffauerova, A.  
