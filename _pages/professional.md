@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional"
+title: "Professional Services"
 permalink: /professional/
 author_profile: true
 redirect_from:
