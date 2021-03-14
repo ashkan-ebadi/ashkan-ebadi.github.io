@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 > [__Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing__](https://link.springer.com/article/10.1007/s11192-020-03744-7)  
 > <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., Xi, P., Tremblay, S., Spencer, B., Pall, R., & Wong, A.  
@@ -109,7 +110,7 @@ redirect_from:
  > [__Effect of collaboration network structure on knowledge creation and technological performance: the case of biotechnology in Canada__](https://link.springer.com/content/pdf/10.1007/s11192-013-1069-6.pdf)  
 > <img src="/images/Journal.png" width="85" height="35"> Eslami, H., Ebadi, A., & Schiffauerova, A.  
 > _Scientometrics_, 97(1), 99-119. (__2013__)
-> <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s11192-013-1069-6" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+> <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s11192-013-1069-6" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div><span class="__dimensions_badge_embed__" data-doi="10.1007/s11192-013-1069-6" data-hide-zero-citations="true" data-style="small_circle"></span>
 
 
 For a complete list of publication, you may either check my [Google Scholar profile](https://scholar.google.ca/citations?user=QY04IUkAAAAJ&hl=en) or see the [CV]('/CV/') section.
