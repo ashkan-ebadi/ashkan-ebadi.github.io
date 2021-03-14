@@ -193,6 +193,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  professional:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
