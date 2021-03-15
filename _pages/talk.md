@@ -11,14 +11,24 @@ redirect_from:
 
 
 ### Guest Lecture
-* Recent Advances in Computer Science and Communications, Bentham Science Publishers
-* International Journal of Information Sciences and Management (IJISM)
+* École de technologie supérieure (ÉTS), 2021
+  * Leveraging the power of AI for greater impact: Intelligent decision support systems in healthcare
+* University of Florida, 2015-2016
+  * Natural Language Processing (NLP)
+  * Gene Expression Data Analysis
+  * Graph Mining
+  * Sequential and Temporal Data Modeling
 
 ### Invited Talk
-* Rece
+* John Molson School of Business, Concordia University, 2019
+  * How to Become a Data Scientist? The path and must-have skills
 
 ### Workshop
-* Rece
+* John Molson School of Business, Concordia University, 2019
+  * Introduction to Data Science Workshop (one-day event)
 
 ### Conference Proceeding Talk
-* Rece   test
+* How can automated machine learning help business data science teams? - IEEE ICMLA 2019
+* On the scale-free characteristics of surgical team networks - COLLNET Meeting 2016
+* A computer systems for automatic evaluation of researchers’ performance - ISSI 2015
+* How do scientists collaborate? assessing the impact of influencing factors - COLLNET Meeting 2014
