@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  talk:
+    output: true
+    permalink: /:collection/:path/
   contact:
     output: true
     permalink: /:collection/:path/
