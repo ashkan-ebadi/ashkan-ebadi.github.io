@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /professional/
+permalink: /talk/
 author_profile: true
 redirect_from:
-  - /professional
+  - /talk
 ---
 
 {% include base_path %}
