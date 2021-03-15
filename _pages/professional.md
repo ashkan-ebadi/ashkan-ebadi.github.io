@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 ### Journal Editorial Board
 * Recent Advances in Computer Science and Communications, Bentham Science Publishers
 * International Journal of Information Sciences and Management (IJISM)
