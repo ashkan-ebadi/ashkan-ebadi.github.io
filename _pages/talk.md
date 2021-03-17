@@ -20,6 +20,8 @@ redirect_from:
   * Sequential and Temporal Data Modeling
 
 ### Invited Talk
+* Aggregate Intellect, 2020
+  * [Machine Learning to Assess Trends and Alignment of Funded Research Output](https://ai.science/e/machine-learning-to-assess-trends-and-alignment-of-funded-research-output--Bz5MK8Jo38B6ebwG40b6@/streams/science-of-science)
 * John Molson School of Business, Concordia University, 2019
   * How to Become a Data Scientist? The path and must-have skills
 
