@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
 Ashkan Ebadi is a multidisciplinary applied data science researcher with expertise in artificial intelligence (AI), machine learning, deep learning, and graph analytics. He received his Ph.D. in information systems engineering with an emphasis on AI-based decision support systems. He also carried a two-year postdoctoral fellowship in health informatics at the University of Florida (USA). He is currently a senior research officer at the National Research Council Canada (NRC), the government of Canada’s largest research organization, an Affiliate Assistant Professor at Concordia University (Canada), and a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE) organization.
 
 Ashkan has intensive academic and industrial experience in the design and implementation of data-driven solutions. His 12+ years of professional industry experience covers the entire life-cycle of the data science pipeline, from (business) problem definition to scalable big data analytics applications. His research aims to leverage advanced analytics and machine learning to solve complex real-life problems in various domains.
