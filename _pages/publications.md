@@ -12,7 +12,7 @@ redirect_from:
 
 
 > [__COVIDx-US - An open-access benchmark dataset of ultrasound imaging data for AI-driven COVID-19 analytics__](https://arxiv.org/abs/2103.10003)  
-> <img src="/images/Preprint.png" width="85" height="35"> Ebadi, A., Xi, P., MacLean, A., Tremblay, S., Kohli, S., & Wong, A.  
+> <img src="/images/Preprint.png" width="60" height="30"> Ebadi, A., Xi, P., MacLean, A., Tremblay, S., Kohli, S., & Wong, A.  
 > _arXiv preprint_ arXiv:2103.10003. (__2021__)   
 
 > [__Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing__](https://link.springer.com/article/10.1007/s11192-020-03744-7)  
