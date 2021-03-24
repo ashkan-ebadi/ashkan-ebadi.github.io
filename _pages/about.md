@@ -43,6 +43,7 @@ For a more comprehensive list of publications, please see the [Publications](/pu
 
 Recent News
 ------
+* __March 2021__ - Released the first version of [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) dataset, i.e. an open-access benchmark ultrasound imaging dataset for COVID-19 detection. 
 * __March 2021__ - Delivered a guest lecture on _AI in Healthcare_ at École de technologie supérieure (ÉTS) - Invited by [Prof. Abdolouahed Gherbi](https://www.etsmtl.ca/en/research/professors/agherbi).
 * __February 2021__ - Invited to serve in the programm committe of the 2nd International Conference on Data Mining and Software Engineering (DMSE 2021).
 * __January 2021__ - Served in the program committee of the 2nd International Conference on Big Data (CBDA 2021).
