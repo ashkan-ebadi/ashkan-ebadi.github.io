@@ -10,12 +10,23 @@ redirect_from:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-
 > [__COVIDx-US - An open-access benchmark dataset of ultrasound imaging data for AI-driven COVID-19 analytics__](https://arxiv.org/abs/2103.10003)  
 > <img src="/images/Preprint.png" width="60" height="30"> Ebadi, A., Xi, P., MacLean, A., Tremblay, S., Kohli, S., & Wong, A.  
 > _arXiv preprint_ arXiv:2103.10003. (__2021__)   
 
-> [__Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing__](https://link.springer.com/article/10.1007/s11192-020-03744-7)  
+> [__Gender-Specific Patterns in the Artificial Intelligence Scientific Ecosystem__](https://arxiv.org/abs/2106.01446)  
+> <img src="/images/Preprint.png" width="60" height="30"> Hajibabaei, A., Schiffauerova, A., & Ebadi, A.  
+> _arXiv preprint_ arXiv:2106.01446. (__2021__)   
+
+> [__COVID-19 Detection from Chest X-ray Images using Imprinted Weights Approach__](https://arxiv.org/abs/2105.01710)  
+> <img src="/images/Preprint.png" width="60" height="30"> Zhang, J., Xi, P., Ebadi, A., Azimi, H., Tremblay, S., & Wong, A.  
+> _arXiv preprint_ arXiv:2105.01710. (__2021__)   
+
+> [__Influence of cognitive, geographical, and collaborative proximity on knowledge production of Canadian nanotechnology__](https://arxiv.org/abs/2106.02110)  
+> <img src="/images/Preprint.png" width="60" height="30"> Neira, E. L. C., Ebadi, A., Beaudry, C., & Schiffauerova, A.  
+> _arXiv preprint_ arXiv:2106.02110. (__2021__)   
+
+ > [__Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing__](https://link.springer.com/article/10.1007/s11192-020-03744-7)  
 > <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., Xi, P., Tremblay, S., Spencer, B., Pall, R., & Wong, A.  
 > _Scientometrics_, 126(1), 725-739. (__2021__)
 > <div data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1007/s11192-020-03744-7" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
