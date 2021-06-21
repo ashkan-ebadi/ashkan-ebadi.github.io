@@ -14,7 +14,7 @@ You can find me at my office located at the below address, after the coronavirus
 
 > National Research Council Canada (NRC)  
 > MTL-Decelles Building  
-> 2107 Chemin de Polytechnique, Office 430  
+> 2107 Chemin de Polytechnique, Office 427  
 > Montréal, QC H3T 1J4  
 
 
