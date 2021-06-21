@@ -10,7 +10,7 @@ redirect_from:
 
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
-Ashkan Ebadi is a multidisciplinary applied data science researcher with expertise in artificial intelligence (AI), machine learning, deep learning, and graph analytics. He received his Ph.D. in information systems engineering with an emphasis on AI-based decision support systems. He also carried a two-year postdoctoral fellowship in health informatics at the University of Florida (USA). He is currently a senior research officer at the National Research Council Canada (NRC), the government of Canada’s largest research organization, an Affiliate Assistant Professor at Concordia University (Canada), and a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE) organization.
+Ashkan Ebadi is a multidisciplinary applied data science researcher with expertise in artificial intelligence (AI), machine learning, deep learning, and graph analytics. He received his Ph.D. in information systems engineering with an emphasis on AI-based decision support systems. He also carried a two-year postdoctoral fellowship in health informatics at the University of Florida (USA). He is currently a senior research officer at the National Research Council Canada (NRC), the government of Canada’s largest research organization, an Adjunct Assistant Professor at the University of Waterloo, an Affiliate Assistant Professor at Concordia University (Canada), and a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE) organization.
 
 Ashkan has intensive academic and industrial experience in the design and implementation of data-driven solutions. His 12+ years of professional industry experience covers the entire life-cycle of the data science pipeline, from (business) problem definition to scalable big data analytics applications. His research aims to leverage advanced analytics and machine learning to solve complex real-life problems in various domains.
 
@@ -43,6 +43,8 @@ For a more comprehensive list of publications, please see the [Publications](/pu
 
 Recent News
 ------
+* __May 2021__ - We have two papers at ICLR 2021 - Machine Learning for Preventing and Combating Pandemics workshop!
+* __April 2021__ - [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) v1.3 is released. More data sources and metadata are now available. The dataset comprises 173 ultrasound videos and 16,822 processed ultrasound images.
 * __March 2021__ - Released the first version of [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) dataset, i.e. an open-access benchmark ultrasound imaging dataset for COVID-19 detection. 
 * __March 2021__ - Delivered a guest lecture on _AI in Healthcare_ at École de technologie supérieure (ÉTS) - Invited by [Prof. Abdolouahed Gherbi](https://www.etsmtl.ca/en/research/professors/agherbi).
 * __February 2021__ - Invited to serve in the programm committe of the 2nd International Conference on Data Mining and Software Engineering (DMSE 2021).
