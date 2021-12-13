@@ -43,6 +43,12 @@ For a more comprehensive list of publications, please see the [Publications](/pu
 
 Recent News
 ------
+* __December 2021__ - Three papers accepted to the 7th Annual Conference on Vision and Intelligent Systems (CVIS 2021)!
+* __December 2021__ - Invited to conduct technical evaluation for Creative Destruction Lab.
+* __December 2021__ - Our paper, "Discovering the evolution of artificial intelligence in cancer research using dynamic topic modeling", published in COLLNET Journal of Scientometrics and Information Management!
+* __November 2021__ - We released the open-access [NRC-GAMMA dataset](https://github.com/nrc-cnrc/NRC-GAMMA)! See the respective [publication](https://arxiv.org/abs/2111.06827) for more details.
+* __October 2021__ - Our paper, "Understanding Geographical Patterns of Scientific Collaboration in Artificial Intelligence among Canadian Researchers", published in the IEEE 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT) proceedings.
+* __May-September 2021__ - Co-organized an IEEE competition on COVID-19 detection using X-ray images and served as a reviewer.
 * __May 2021__ - We have two papers at ICLR 2021 - Machine Learning for Preventing and Combating Pandemics workshop!
 * __April 2021__ - [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) v1.3 is released. More data sources and metadata are now available. The dataset comprises 173 ultrasound videos and 16,822 processed ultrasound images.
 * __March 2021__ - Released the first version of [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) dataset, i.e. an open-access benchmark ultrasound imaging dataset for COVID-19 detection. 
