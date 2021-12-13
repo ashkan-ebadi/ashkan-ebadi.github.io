@@ -32,6 +32,7 @@ Education
 
 Selected Publications
 ------
+* MacLean, A., Abbasi, S., __Ebadi, A.__, Zhao, A., Pavlova, M., Gunraj, H., Xi, P., Kohli, S., & Wong, A. (2021). [COVID-Net US: A Tailored, Highly Efficient, Self-Attention Deep Convolutional Neural Network Design for Detection of COVID-19 Patient Cases from Point-of-care Ultrasound Imaging](https://link.springer.com/chapter/10.1007/978-3-030-87722-4_18). In _Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health_, pp. 191-202. Springer, Cham.
 * __Ebadi, A.__, Xi, P., Tremblay, S., Spencer, B., Pall, R., & Wong, A. (2021). [Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing](https://link.springer.com/article/10.1007/s11192-020-03744-7). _Scientometrics_, 126(1), 725-739.
 * __Ebadi, A.__, Tremblay, S., Goutte, C., & Schiffauerova, A. (2020). [Application of machine learning techniques to assess the trends and alignment of the funded research output](https://www.sciencedirect.com/science/article/pii/S1751157718301901). _Journal of Informetrics_, 14(2), 101018.
 * __Ebadi, A.__, Gauthier, Y., Tremblay, S., & Paul, P. (2019, December). [How can automated machine learning help business data science teams?](https://ieeexplore.ieee.org/abstract/document/8999171). In 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA) (pp. 1186-1191). IEEE.
