@@ -46,11 +46,17 @@ Recent News
 * __December 2021__ - Three papers accepted to the 7th Annual Conference on Vision and Intelligent Systems (CVIS 2021)!
 * __December 2021__ - Invited to conduct technical evaluation for Creative Destruction Lab.
 * __December 2021__ - Our paper, "Discovering the evolution of artificial intelligence in cancer research using dynamic topic modeling", published in COLLNET Journal of Scientometrics and Information Management!
+* __December 2021__ - Congrats to Shahab Mosallaie for successfully defending his Master's thesis! Best of luck in all your future endeavors, Shahab.
+* __November 2021__ - Invited to serve in the programm committee of the 35th Canadian Conference on Artificial Intelligence (CanAI-2022).
 * __November 2021__ - We released the open-access [NRC-GAMMA dataset](https://github.com/nrc-cnrc/NRC-GAMMA)! See the respective [publication](https://arxiv.org/abs/2111.06827) for more details.
+* __November 2021__ - Invited to the program committee of the International Conference on NLP, Data Mining and Machine Learning (NLDML 2022).
 * __October 2021__ - Our paper, "Understanding Geographical Patterns of Scientific Collaboration in Artificial Intelligence among Canadian Researchers", published in the IEEE 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT) proceedings.
+* __October 2021__ - [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) v1.4 is released! Now with more data sources, data points, and a standardized human gold standard lung ultrasound severity score! The dataset comprises 242 ultrasound videos and ~30,000 processed ultrasound images.
+* __October 2021__ - Invited to the program committee of the 3rd International Conference on Big Data and Blockchain (BDAB 2022).
 * __May-September 2021__ - Co-organized an IEEE competition on COVID-19 detection using X-ray images and served as a reviewer.
 * __May 2021__ - We have two papers at ICLR 2021 - Machine Learning for Preventing and Combating Pandemics workshop!
 * __April 2021__ - [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) v1.3 is released. More data sources and metadata are now available. The dataset comprises 173 ultrasound videos and 16,822 processed ultrasound images.
+* __April 2021__ - Joined the Editorial Board of the Informatics journal published by MDPI.
 * __March 2021__ - Released the first version of [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) dataset, i.e. an open-access benchmark ultrasound imaging dataset for COVID-19 detection. 
 * __March 2021__ - Delivered a guest lecture on _AI in Healthcare_ at École de technologie supérieure (ÉTS) - Invited by [Prof. Abdolouahed Gherbi](https://www.etsmtl.ca/en/research/professors/agherbi).
 * __February 2021__ - Invited to serve in the programm committe of the 2nd International Conference on Data Mining and Software Engineering (DMSE 2021).
