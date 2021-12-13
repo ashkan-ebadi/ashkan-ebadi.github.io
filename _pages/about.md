@@ -48,9 +48,12 @@ Recent News
 * __December 2021__ - Our paper, "Discovering the evolution of artificial intelligence in cancer research using dynamic topic modeling", published in COLLNET Journal of Scientometrics and Information Management!
 * __December 2021__ - Congrats to Shahab Mosallaie for successfully defending his Master's thesis! Best of luck in all your future endeavors, Shahab.
 * __December 2021__ - Invited and served as the external jury of a PhD thesis defence - Ecole de technologie superieure (ETS).
+* __December 2021__ - Invited to review a proposal for Mitacs!
 * __November 2021__ - Invited to serve in the programm committee of the 35th Canadian Conference on Artificial Intelligence (CanAI-2022).
 * __November 2021__ - We released the open-access [NRC-GAMMA dataset](https://github.com/nrc-cnrc/NRC-GAMMA)! See the respective [publication](https://arxiv.org/abs/2111.06827) for more details.
 * __November 2021__ - Invited to the program committee of the International Conference on NLP, Data Mining and Machine Learning (NLDML 2022).
+* __September 2021__ - Our paper, "Covid-Net US: A tailored, highly efficient, self-attention deep convolutional neural network design for
+detection of covid-19 patient cases from point-of-care ultrasound imaging", accepted to MICCAI FAIR workshop!
 * __October 2021__ - Our paper, "Understanding Geographical Patterns of Scientific Collaboration in Artificial Intelligence among Canadian Researchers", published in the IEEE 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT) proceedings.
 * __October 2021__ - [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) v1.4 is released! Now with more data sources, data points, and a standardized human gold standard lung ultrasound severity score! The dataset comprises 242 ultrasound videos and ~30,000 processed ultrasound images.
 * __October 2021__ - Invited to the program committee of the 3rd International Conference on Big Data and Blockchain (BDAB 2022).
