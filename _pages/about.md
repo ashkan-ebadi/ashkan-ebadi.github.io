@@ -16,7 +16,7 @@ Ashkan has intensive academic and industrial experience in the design and implem
 
 Research Interests
 ======
-* Artificial intelligence
+* Artificial intelligence, machine learning, deep learning
 * Applied data science
 * Intelligent decision support systems
 * Graph analytics
