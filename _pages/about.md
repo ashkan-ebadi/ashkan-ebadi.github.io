@@ -57,7 +57,7 @@ detection of covid-19 patient cases from point-of-care ultrasound imaging", acce
 * __October 2021__ - Our paper, "Understanding Geographical Patterns of Scientific Collaboration in Artificial Intelligence among Canadian Researchers", published in the IEEE 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT) proceedings.
 * __October 2021__ - [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) v1.4 is released! Now with more data sources, data points, and a standardized human gold standard lung ultrasound severity score! The dataset comprises 242 ultrasound videos and ~30,000 processed ultrasound images.
 * __October 2021__ - Invited to the program committee of the 3rd International Conference on Big Data and Blockchain (BDAB 2022).
-* __May-September 2021__ - Co-organized an IEEE competition on COVID-19 detection using X-ray images and served as a reviewer.
+* __May-September 2021__ - Co-organized the IEEE [AI against COVID-19](https://r7.ieee.org/montreal-sight/ai-against-covid-19/) competition and served in the reviewing committee.
 * __May 2021__ - We have two papers at ICLR 2021 - Machine Learning for Preventing and Combating Pandemics workshop!
 * __April 2021__ - [COVIDx-US](https://github.com/nrc-cnrc/COVID-US/) v1.3 is released. More data sources and metadata are now available. The dataset comprises 173 ultrasound videos and 16,822 processed ultrasound images.
 * __April 2021__ - Joined the Editorial Board of the Informatics journal published by MDPI.
