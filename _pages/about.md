@@ -34,6 +34,7 @@ Education
 
 Selected Publications
 ------
+* Zeng, E. Z., __Ebadi, A.__, Florea, A., & Wong, A. (2024). [COVID-Net L2C-ULTRA: An Explainable Linear-Convex Ultrasound Augmentation Learning Framework to Improve COVID-19 Assessment and Monitoring](https://www.mdpi.com/1424-8220/24/5/1664). Sensors, 24(5), 1664.
 * MacLean, A., Abbasi, S., __Ebadi, A.__, Zhao, A., Pavlova, M., Gunraj, H., Xi, P., Kohli, S., & Wong, A. (2021). [COVID-Net US: A Tailored, Highly Efficient, Self-Attention Deep Convolutional Neural Network Design for Detection of COVID-19 Patient Cases from Point-of-care Ultrasound Imaging](https://link.springer.com/chapter/10.1007/978-3-030-87722-4_18). In _Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health_, pp. 191-202. Springer, Cham.
 * __Ebadi, A.__, Xi, P., Tremblay, S., Spencer, B., Pall, R., & Wong, A. (2021). [Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing](https://link.springer.com/article/10.1007/s11192-020-03744-7). _Scientometrics_, 126(1), 725-739.
 * __Ebadi, A.__, Tremblay, S., Goutte, C., & Schiffauerova, A. (2020). [Application of machine learning techniques to assess the trends and alignment of the funded research output](https://www.sciencedirect.com/science/article/pii/S1751157718301901). _Journal of Informetrics_, 14(2), 101018.
@@ -48,6 +49,8 @@ Recent News
 ------
 * __December 2021__ - Three papers accepted to the 7th Annual Conference on Vision and Intelligent Systems (CVIS 2021)!
 * __December 2021__ - Invited to conduct technical evaluation for Creative Destruction Lab.
+
+<!--
 * __December 2021__ - Our paper, "Discovering the evolution of artificial intelligence in cancer research using dynamic topic modeling", published in COLLNET Journal of Scientometrics and Information Management!
 * __December 2021__ - Congrats to Shahab Mosallaie for successfully defending his Master's thesis! Best of luck in all your future endeavors, Shahab.
 * __December 2021__ - Invited and served as the external jury of a PhD thesis defence - Ecole de technologie superieure (ETS).
@@ -73,3 +76,5 @@ detection of covid-19 patient cases from point-of-care ultrasound imaging", acce
 * __November 2020__ - Invited to serve in the programm committee of the [34th Canadian Conference on Artificial Intelligence (CanAI-2021)](https://www.caiac.ca/en/conferences/canadianai-2021/home) - to be held virtually on May 25-28, 2021.
 * __2019__ - Served in the programm committee of the 33th Canadian Conference on Artificial Intelligence (CanAI-2020).
 * __2018__ - Best paper award in clinical decision support category by the International Medical Informatics Association (IMIA).
+-->
+
