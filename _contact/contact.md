@@ -5,7 +5,7 @@ You can find me at my office located at the below address:
 National Research Council of Canada <br />
 222 College St, Office 163 <br />
 Toronto, ON M5T 3J1 <br />
-(999) 999-8888</p>
+</p>
 
 In any case, you can reach out to me via [email](mailto:ashkan.ebadi@nrc-cnrc.gc.ca) to set an appointment, discuss a research project, etc.
 
