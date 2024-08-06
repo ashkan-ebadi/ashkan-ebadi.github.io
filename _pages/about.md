@@ -10,9 +10,11 @@ redirect_from:
 
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
-Ashkan Ebadi is a multidisciplinary applied data science researcher with expertise in artificial intelligence (AI), machine learning, deep learning, and graph analytics. He received his Ph.D. in information systems engineering with an emphasis on AI-based decision support systems. He also carried a two-year postdoctoral fellowship in health informatics at the University of Florida (USA). He is currently a senior research officer at the National Research Council Canada (NRC), the government of Canada’s largest research organization, an Adjunct Assistant Professor at the University of Waterloo, an Affiliate Assistant Professor at Concordia University (Canada), and a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE) organization.
+Dr. Ashkan Ebadi is a multidisciplinary applied data science researcher specializing in artificial intelligence (AI), machine learning, deep learning, and graph analytics. He earned his Ph.D. in Information Systems Engineering with a focus on AI-based decision support systems. Following his doctoral studies, he completed a two-year postdoctoral fellowship in health informatics at the University of Florida (USA).
 
-Ashkan has intensive academic and industrial experience in the design and implementation of data-driven solutions. His 12+ years of professional industry experience covers the entire life-cycle of the data science pipeline, from (business) problem definition to scalable big data analytics applications. His research aims to leverage advanced analytics and machine learning to solve complex real-life problems in various domains.
+Currently, he serves as a Senior Research Officer at the National Research Council Canada (NRC). In addition, he holds positions as an Adjunct Assistant Professor at the University of Waterloo, an Affiliate Assistant Professor at Concordia University (Canada), and is a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE).
+
+Dr. Ebadi brings extensive academic and industrial experience in designing and implementing intelligent, data-driven solutions. His expertise spans the entire data science pipeline, from problem definition to scalable big data analytics applications. His research focuses on utilizing advanced analytics and machine learning to address complex real-life challenges across various domains, including healthcare, construction, and social sciences.
 
 Research Interests
 ======
