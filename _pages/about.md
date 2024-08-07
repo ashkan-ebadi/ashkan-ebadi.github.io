@@ -21,7 +21,7 @@ Research Interests
 * Artificial intelligence, machine learning, deep learning
 * Applied data science
 * Intelligent decision support systems
-* Graph analytics
+<!--* Graph analytics-->
 * Health informatics
 * Scientometrics
 
@@ -42,7 +42,7 @@ Selected Publications
 * Hajibabaei, A., Schiffauerova, A., & __Ebadi, A.__ (2022). [Gender-specific patterns in the artificial intelligence scientific ecosystem](https://www.sciencedirect.com/science/article/pii/S175115772200027X). Journal of Informetrics, 16(2), 101275.
 * __Ebadi, A.__, Xi, P., Tremblay, S., Spencer, B., Pall, R., & Wong, A. (2021). [Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing](https://link.springer.com/article/10.1007/s11192-020-03744-7). _Scientometrics_, 126(1), 725-739.
 * __Ebadi, A.__, Tremblay, S., Goutte, C., & Schiffauerova, A. (2020). [Application of machine learning techniques to assess the trends and alignment of the funded research output](https://www.sciencedirect.com/science/article/pii/S1751157718301901). _Journal of Informetrics_, 14(2), 101018.
-* __Ebadi, A.__, Gauthier, Y., Tremblay, S., & Paul, P. (2019, December). [How can automated machine learning help business data science teams?](https://ieeexplore.ieee.org/abstract/document/8999171). In 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA) (pp. 1186-1191). IEEE.
+<!--* __Ebadi, A.__, Gauthier, Y., Tremblay, S., & Paul, P. (2019, December). [How can automated machine learning help business data science teams?](https://ieeexplore.ieee.org/abstract/document/8999171). In 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA) (pp. 1186-1191). IEEE.-->
 * Bihorac, A., Ozrazgat-Baslanti, T., __Ebadi, A.__, Motaei, A., Madkour, M., Pardalos, P. M., ... & Momcilovic, P. (2019). [MySurgeryRisk: development and validation of a machine-learning risk algorithm for major complications and death after surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110979/). _Annals of surgery_, 269(4), 652.
 * __Ebadi, A.__, Dalboni da Rocha, J. L., Nagaraju, D. B., Tovar-Moll, F., Bramati, I., Coutinho, G., ... & Rashidi, P. (2017). [Ensemble classification of Alzheimer's disease and mild cognitive impairment based on complex graph measures from diffusion tensor images](https://www.frontiersin.org/articles/10.3389/fnins.2017.00056/full). _Frontiers in neuroscience_, 11, 56.
 * __Ebadi, A.__, Tighe, P. J., Zhang, L., & Rashidi, P. (2017). [DisTeam: A decision support tool for surgical team selection](https://www.sciencedirect.com/science/article/pii/S093336571630272X). _Artificial intelligence in medicine_, 76, 16-26.

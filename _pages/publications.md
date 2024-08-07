@@ -10,13 +10,28 @@ redirect_from:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-> [__COVIDx-US - An open-access benchmark dataset of ultrasound imaging data for AI-driven COVID-19 analytics__](https://arxiv.org/abs/2103.10003)  
-> <img src="/images/Preprint.png" width="60" height="30"> Ebadi, A., Xi, P., MacLean, A., Tremblay, S., Kohli, S., & Wong, A.  
-> _arXiv preprint_ arXiv:2103.10003. (__2021__)   
+<!--
+* Zeng, E. Z., __Ebadi, A.__, Florea, A., & Wong, A. (2024). [COVID-Net L2C-ULTRA: An Explainable Linear-Convex Ultrasound Augmentation Learning Framework to Improve COVID-19 Assessment and Monitoring](https://www.mdpi.com/1424-8220/24/5/1664). Sensors, 24(5), 1664.
+* Song, J., __Ebadi, A.__, Florea, A., Xi, P., Tremblay, S., & Wong, A. (2023). [COVID-Net USPro: An Explainable Few-Shot Deep Prototypical Network for COVID-19 Screening Using Point-of-Care Ultrasound](https://www.mdpi.com/1424-8220/23/5/2621). Sensors, 23(5), 2621.
+* Hajibabaei, A., Schiffauerova, A., & __Ebadi, A.__ (2023). [Women and key positions in scientific collaboration networks: analyzing central scientists’ profiles in the artificial intelligence ecosystem through a gender lens](https://link.springer.com/article/10.1007/s11192-022-04601-5). Scientometrics, 128(2), 1219-1240.
+* Ma, K., He, S., Sinha, G., __Ebadi, A.__, Florea, A., Tremblay, S., ... & Xi, P. (2023). [Towards Building a Trustworthy Deep Learning Framework for Medical Image Analysis](https://www.mdpi.com/1424-8220/23/19/8122). Sensors, 23(19), 8122.
+* __Ebadi, A.__, Auger, A., & Gauthier, Y. (2022). [Detecting emerging technologies and their evolution using deep learning and weak signal analysis](https://www.sciencedirect.com/science/article/pii/S1751157722000967). Journal of Informetrics, 16(4), 101344.
+* __Ebadi, A.__, Xi, P., Tremblay, S., Spencer, B., Pall, R., & Wong, A. (2021). [Understanding the temporal evolution of COVID-19 research through machine learning and natural language processing](https://link.springer.com/article/10.1007/s11192-020-03744-7). _Scientometrics_, 126(1), 725-739.
+-->
 
-> [__Gender-Specific Patterns in the Artificial Intelligence Scientific Ecosystem__](https://arxiv.org/abs/2106.01446)  
-> <img src="/images/Preprint.png" width="60" height="30"> Hajibabaei, A., Schiffauerova, A., & Ebadi, A.  
-> _arXiv preprint_ arXiv:2106.01446. (__2021__)   
+
+
+
+
+> [__Gender-Specific Patterns in the Artificial Intelligence Scientific Ecosystem__](https://www.sciencedirect.com/science/article/pii/S175115772200027X)  
+> <img src="/images/Journal.png" width="85" height="35"> Hajibabaei, A., Schiffauerova, A., & Ebadi, A.  
+> _Journal of Informetrics_, 16(2), 101275. (__2022__)   
+
+
+> [__COVIDx-US: An Open-Access Benchmark Dataset of Ultrasound Imaging Data for AI-Driven COVID-19 Analytics__](https://www.imrpress.com/journal/FBL/27/7/10.31083/j.fbl2707198)  
+> <img src="/images/Journal.png" width="85" height="35"> Ebadi, A., Xi, P., MacLean, A., Florea, A., Tremblay, S., Kohli, S., & Wong, A.  
+> _Front Biosci (Landmark Ed)_, 24;27(7):198. (__2022__)   
+
 
 > [__COVID-19 Detection from Chest X-ray Images using Imprinted Weights Approach__](https://arxiv.org/abs/2105.01710)  
 > <img src="/images/Preprint.png" width="60" height="30"> Zhang, J., Xi, P., Ebadi, A., Azimi, H., Tremblay, S., & Wong, A.  
