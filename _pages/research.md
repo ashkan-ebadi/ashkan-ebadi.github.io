@@ -14,12 +14,16 @@ Dr. Ebadi’s research concerns applied data science, with a special focus on me
 
 # Research Projects
 
-### 1. AI-enabled radiography diagnostics 
 
-### 2. Intelligent decision support systems for research evaluation
+### 1. AI-powered tuberculosis screening 
 
-### 3. Gender disparity in science 
+### 2. Construction site progress monitoring
 
-### 4. Expert recommender systems 
+### 3. Intelligent decision support systems for research evaluation
 
-### 5. Collaboration patterns in complex networks
+### 4. Emerging technologies detection
+
+### 5. Gender disparity in science 
+
+### 6. AI breast cancer detetion and diagnosis 
+
