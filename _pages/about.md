@@ -10,11 +10,7 @@ redirect_from:
 
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
-Dr. Ashkan Ebadi is a multidisciplinary applied data science researcher specializing in artificial intelligence (AI), machine learning, deep learning, and graph analytics. He earned his Ph.D. in Information Systems Engineering with a focus on AI-based decision support systems. Following his doctoral studies, he completed a two-year postdoctoral fellowship in health informatics at the University of Florida (USA).
-
-Currently, he serves as a Senior Research Officer at the National Research Council Canada (NRC). In addition, he holds positions as an Adjunct Assistant Professor at the University of Waterloo, an Affiliate Assistant Professor at Concordia University (Canada), and is a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE).
-
-Dr. Ebadi brings extensive academic and industrial experience in designing and implementing intelligent, data-driven solutions. His expertise spans the entire data science pipeline, from problem definition to scalable big data analytics applications. His research focuses on utilizing advanced analytics and machine learning to address complex real-life challenges across various domains, including healthcare, construction, and social sciences.
+Dr. Ashkan Ebadi is a multidisciplinary applied data science researcher specializing in artificial intelligence (AI), machine learning, deep learning, and graph analytics. He received his Ph.D. in Information Systems Engineering from Concordia University (Canada), specializing in AI-driven decision support systems. He subsequently completed a two-year postdoctoral fellowship in Health Informatics at the University of Florida (USA), where he conducted research at the intersection of AI, healthcare, and data analytics. He is a Senior Research Officer at the National Research Council of Canada (NRC) and holds adjunct and affiliate faculty appointments at the University of Waterloo (Canada) and Concordia University. His research spans point-of-care imaging diagnostics, clinical risk modelling, and adversarial robustness and privacy in health AI, alongside work on research evaluation and equity in science.
 
 Research Interests
 ======
