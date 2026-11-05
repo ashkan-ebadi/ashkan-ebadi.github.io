@@ -30,6 +30,9 @@ Education
 
 Selected Publications
 ------
+* __Ebadi, A.__, & Wong, A. (2026). [AI-powered biomedical imaging: recent achievements and challenges](https://www.sciencedirect.com/science/article/pii/S2468451126000024). Current Opinion in Biomedical Engineering, 100650.
+* __Ebadi, A.__, Auger, A., & Gauthier, Y. (2026). [WISDOM: An AI-powered framework for emerging research detection using weak signal analysis and advanced topic modelling](https://www.sciencedirect.com/science/article/pii/S175115772500121X). Journal of Informetrics, 20(1), 101759.
+* Patel, N., Wong, A., & __Ebadi, A.__ (2025). [An Explainable Hybrid AI Framework for Enhanced Tuberculosis and Symptom Detection](https://link.springer.com/chapter/10.1007/978-3-032-28463-1_6). In International Conference on Computational Science and Computational Intelligence (pp. 80-95). Cham: Springer Nature Switzerland.
 * Zeng, E. Z., __Ebadi, A.__, Florea, A., & Wong, A. (2024). [COVID-Net L2C-ULTRA: An Explainable Linear-Convex Ultrasound Augmentation Learning Framework to Improve COVID-19 Assessment and Monitoring](https://www.mdpi.com/1424-8220/24/5/1664). Sensors, 24(5), 1664.
 * Song, J., __Ebadi, A.__, Florea, A., Xi, P., Tremblay, S., & Wong, A. (2023). [COVID-Net USPro: An Explainable Few-Shot Deep Prototypical Network for COVID-19 Screening Using Point-of-Care Ultrasound](https://www.mdpi.com/1424-8220/23/5/2621). Sensors, 23(5), 2621.
 * Hajibabaei, A., Schiffauerova, A., & __Ebadi, A.__ (2023). [Women and key positions in scientific collaboration networks: analyzing central scientists’ profiles in the artificial intelligence ecosystem through a gender lens](https://link.springer.com/article/10.1007/s11192-022-04601-5). Scientometrics, 128(2), 1219-1240.
