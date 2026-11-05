@@ -8,29 +8,29 @@ redirect_from:
 ---
 
 {% include base_path %}
+### Fellowships and Professional Distinctions
+* Fellow, Royal Society for Public Health (RSPH)
+* Fellow, Institution of Analysts and Programmers (IAP)}
 
 ### Journal Editorial Board
-* Informatics, MDPI
-* Recent Advances in Computer Science and Communications, Bentham Science Publishers
-* International Journal of Information Sciences and Management (IJISM)
+* Section Editor, PLOS Digital Health
+* Editorial Board Member, Scientific Reports
+* Editorial Board Member, Humanities and Social Sciences Communications
+* Editorial Board Member, COLLNET Journal of Scientometrics and Information Management
+* Editorial Board Member, Metrics
+* Editorial Board Member, Informatics
+* Editorial Board Member, Journal of Clinical Informatics
+* Editorial Board Member, International Journal of Information Sciences and Management
 
 
-### Conference Program Committee
-* 33rd, 34th, and 35th Canadian Artificial Intelligence Conference (CanAI 2020, 2021, and 2022)
-* 3rd International Conference on Big Data and Blockchain (BDAB 2022)
-* International Conference on NLP, Data Mining and Machine Learning (NLDML 2022)
-* 2nd International Conference on Big Data (CBDA 2021)
-* 2nd International Conference on Data Mining and Software Engineering (DMSE 2021)
-* 1st International Conference on Cognitive Analytics, Granular Computing, and Three-Way Decisions (CCGT 2020)
-* 20th International Conference on Tourism and Management Studies (ICTMS 2018)
-* 19th International Conference on Innovations in Tourism (ICIT 2017)
-* 15th and 16th International Conference on Scientometrics and Informetrics (ISSI 2015 and 2017)
-* The ICDM Workshop on Data Mining and Decision Analytics on Public Health and Wellness (ICDM Health Mining 2015)
-
+### Conference Program Committee (Selected)
+* Canadian Artificial Intelligence Conference (CanAI 2020-2026)
+* International Conference on Scientometrics and Informetrics (ISSI 2015, 2017, 2027)
+* International Conference on Pattern Recognition Applications and Methods (ICPRAM 2026, 2027)
+* IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2026)
+* International Conference on AI in Medicine and Bioinformatics (MedBioAI 2026)
 
 ### Professional Associations Membership
 * Institute of Electrical and Electronics Engineers (IEEE) [Senior Member]
-* Institute of Electrical and Electronics Engineers (IEEE) Young Professionals Committee [Member]
 * Canadian Artificial Intelligence Association (CAIAC)
-* Institute for Operations Research and Management Sciences (INFORMS)
 * Centre Interuniversitaire de Recherche sur la science et la Technologie (CIRST)
